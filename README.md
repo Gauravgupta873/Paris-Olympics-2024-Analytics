@@ -96,20 +96,25 @@ The project uses multiple datasets related to Olympic athletes, medals, hosts, a
 ---
 
 ## 📷 Dashboard Preview
+HOME
+<img width="1409" height="792" alt="image" src="https://github.com/user-attachments/assets/c407962f-0a7c-4831-bf82-551af584fde5" />
 
-![Overview](<img width="1406" height="789" alt="image" src="https://github.com/user-attachments/assets/ec0f2831-f2bc-411b-8df1-069cddc21e26" />
-)
-
+OVERVIEW
+<img width="1401" height="794" alt="image" src="https://github.com/user-attachments/assets/0eb05df8-97d3-4a87-9def-a5694c92c7f4" />
 
 ATHLETES
 <img width="1396" height="793" alt="image" src="https://github.com/user-attachments/assets/b71bf1c5-7636-4590-a2e0-449a7234afd8" />
 
+COUNTRY
+<img width="1409" height="792" alt="image" src="https://github.com/user-attachments/assets/5ebabcb8-c3ea-4374-8bfe-017a6ba174cf" />
 
-![Country](<img width="1404" height="788" alt="image" src="https://github.com/user-attachments/assets/78350b70-aa30-4135-86af-a02c1e3e70ba" />
-)
+HISTORY
+<img width="1409" height="788" alt="image" src="https://github.com/user-attachments/assets/fdbb7bf4-0e2c-47e2-827c-555f04942bf4" />
+SPORTS
+<img width="274" height="841" alt="image" src="https://github.com/user-attachments/assets/96d34b42-b57d-40a0-a20c-4d3e72954792" />
 
-![History](<img width="1410" height="796" alt="image" src="https://github.com/user-attachments/assets/11d75c0e-b81d-4a9d-8eec-8339c7efebfb" />
-)
+
+
 
 ---
 
