@@ -100,8 +100,10 @@ The project uses multiple datasets related to Olympic athletes, medals, hosts, a
 ![Overview](<img width="1406" height="789" alt="image" src="https://github.com/user-attachments/assets/ec0f2831-f2bc-411b-8df1-069cddc21e26" />
 )
 
-![Athletes](<img width="1392" height="783" alt="image" src="https://github.com/user-attachments/assets/ed1c8739-8b4c-4585-9bd9-d3a120946652" />
-)
+
+ATHLETES
+<img width="1396" height="793" alt="image" src="https://github.com/user-attachments/assets/b71bf1c5-7636-4590-a2e0-449a7234afd8" />
+
 
 ![Country](<img width="1404" height="788" alt="image" src="https://github.com/user-attachments/assets/78350b70-aa30-4135-86af-a02c1e3e70ba" />
 )
